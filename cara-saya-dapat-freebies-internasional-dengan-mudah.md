@@ -26,7 +26,4 @@ Dari software, voucher, hingga sampel produk—semua bisa didapat dengan mudah. 
 
 - [🔒 Aman dengan 9Proxy](https://9proxy.com/?utm_source=Web2.0&utm_medium=Graphy&utm_id=lily555)  
 - [💰 Jangan Lewatkan Diskon 9Proxy](https://9proxy.com/pricing?utm_source=Web2.0&utm_medium=Graphy&utm_id=lily555)  
-
----
-
 Selamat mencoba! Kalau kamu punya trik lain, feel free untuk fork dan share. 🚀
